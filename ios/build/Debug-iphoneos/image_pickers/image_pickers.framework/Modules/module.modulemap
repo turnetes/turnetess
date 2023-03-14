@@ -1,0 +1,6 @@
+framework module image_pickers {
+  umbrella header "image_pickers-umbrella.h"
+
+  export *
+  module * { export * }
+}

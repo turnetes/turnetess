@@ -1,0 +1,54 @@
+dependencies: \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/SystemService/FIRAuthAPNSTokenManager.m \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/build/Pods.build/Debug-iphoneos/FirebaseAuth.build/module.modulemap \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/build/Pods.build/Debug-iphoneos/GoogleUtilities.build/module.modulemap \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/GoogleUtilities/GoogleUtilities/UserDefaults/Public/GoogleUtilities/GULUserDefaults.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/GoogleUtilities/GoogleUtilities/Reachability/Public/GoogleUtilities/GULReachabilityChecker.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/GoogleUtilities/GoogleUtilities/Network/Public/GoogleUtilities/GULNetworkURLSession.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/GoogleUtilities/GoogleUtilities/Network/Public/GoogleUtilities/GULNetworkMessageCode.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/GoogleUtilities/GoogleUtilities/Network/Public/GoogleUtilities/GULNetworkLoggerProtocol.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/GoogleUtilities/GoogleUtilities/Network/Public/GoogleUtilities/GULNetworkConstants.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/GoogleUtilities/GoogleUtilities/Network/Public/GoogleUtilities/GULNetwork.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/GoogleUtilities/GoogleUtilities/Network/Public/GoogleUtilities/GULMutableDictionary.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/GoogleUtilities/GoogleUtilities/NSData+zlib/Public/GoogleUtilities/GULNSData+zlib.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/GoogleUtilities/GoogleUtilities/Logger/Public/GoogleUtilities/GULLoggerLevel.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/GoogleUtilities/GoogleUtilities/Logger/Public/GoogleUtilities/GULLogger.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/NSURLSession+GULPromises.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULURLSessionDataResponse.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULSecureCoding.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULKeychainUtils.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULKeychainStorage.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULHeartbeatDateStorageUserDefaults.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULHeartbeatDateStorage.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULHeartbeatDateStorable.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULAppEnvironmentUtil.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/GoogleUtilities/GoogleUtilities/AppDelegateSwizzler/Public/GoogleUtilities/GULSceneDelegateSwizzler.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/GoogleUtilities/GoogleUtilities/AppDelegateSwizzler/Public/GoogleUtilities/GULApplication.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/GoogleUtilities/GoogleUtilities/AppDelegateSwizzler/Public/GoogleUtilities/GULAppDelegateSwizzler.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/Target\ Support\ Files/GoogleUtilities/GoogleUtilities-umbrella.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/FirebaseAuth/FirebaseCore/Sources/Private/FirebaseCoreInternal.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/build/Pods.build/Debug-iphoneos/FirebaseCore.build/module.modulemap \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRVersion.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIROptions.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FirebaseCore.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRLoggerLevel.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRConfiguration.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRApp.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/Target\ Support\ Files/FirebaseCore/FirebaseCore-umbrella.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/FirebaseAuth/FirebaseCore/Sources/Private/FIRAppInternal.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/FirebaseAuth/FirebaseCore/Sources/Private/FIRComponent.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/FirebaseAuth/FirebaseCore/Sources/Private/FIRComponentContainer.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/FirebaseAuth/FirebaseCore/Sources/Private/FIRComponentType.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/FirebaseAuth/FirebaseCore/Sources/Private/FIRDependency.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/FirebaseAuth/FirebaseCore/Sources/Private/FIRHeartbeatInfo.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/FirebaseAuth/FirebaseCore/Sources/Private/FIRLibrary.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/FirebaseAuth/FirebaseCore/Sources/Private/FIRLogger.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/FirebaseAuth/FirebaseCore/Sources/Private/FIROptionsInternal.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Auth/FIRAuthGlobalWorkQueue.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Auth/FIRAuth_Internal.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuth.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthAPNSTokenType.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthErrors.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/FirebaseAuth/Interop/Auth/Public/FIRAuthInterop.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/SystemService/FIRAuthAPNSToken.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/SystemService/FIRAuthAPNSTokenManager.h

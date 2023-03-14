@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.120.1 clang-1400.0.28.1)"
+options: "fce75ad72365b9149e69b3c39258cc9c57f5a9380d7e2ffc4f00180086c07e64"
+build_start_time: [1658742479, 683053016]
+build_end_time: [1658742481, 875138044]
+inputs:
+  ? "/Users/carlos/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_launch-0.3.0/ios/Classes/SwiftFlutterLaunchPlugin.swift"
+  : [1652733903, 120535850]

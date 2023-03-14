@@ -1,0 +1,36 @@
+dependencies: \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/SystemService/FIRSecureTokenService.m \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/build/Pods.build/Debug-iphoneos/FirebaseAuth.build/module.modulemap \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/SystemService/FIRSecureTokenService.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuth.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthAPNSTokenType.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthErrors.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Auth/FIRAuthSerialTaskQueue.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Auth/FIRAuthTokenResult_Internal.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthTokenResult.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Auth/FIRAuth_Internal.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/FirebaseAuth/FirebaseCore/Sources/Private/FIRLogger.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/build/Pods.build/Debug-iphoneos/FirebaseCore.build/module.modulemap \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRVersion.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIROptions.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FirebaseCore.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRLoggerLevel.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRConfiguration.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRApp.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/Target\ Support\ Files/FirebaseCore/FirebaseCore-umbrella.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/FirebaseAuth/Interop/Auth/Public/FIRAuthInterop.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/FIRAuthBackend.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/FIRAuthRPCRequest.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/FIRAuthRPCResponse.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/FIRAuthRequestConfiguration.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/FIRSecureTokenRequest.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/FIRSecureTokenResponse.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/FirebaseAuth/FirebaseCore/Sources/Private/FirebaseCoreInternal.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/FirebaseAuth/FirebaseCore/Sources/Private/FIRAppInternal.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/FirebaseAuth/FirebaseCore/Sources/Private/FIRComponent.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/FirebaseAuth/FirebaseCore/Sources/Private/FIRComponentContainer.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/FirebaseAuth/FirebaseCore/Sources/Private/FIRComponentType.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/FirebaseAuth/FirebaseCore/Sources/Private/FIRDependency.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/FirebaseAuth/FirebaseCore/Sources/Private/FIRHeartbeatInfo.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/FirebaseAuth/FirebaseCore/Sources/Private/FIRLibrary.h \
+  /Users/carlos/AndroidStudioProjects/turnetes/ios/Pods/FirebaseAuth/FirebaseCore/Sources/Private/FIROptionsInternal.h

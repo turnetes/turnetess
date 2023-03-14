@@ -1,0 +1,10 @@
+framework module flutter_launch {
+  umbrella header "flutter_launch-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module flutter_launch.__Swift {
+  exclude header "flutter_launch-Swift.h"
+}

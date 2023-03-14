@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "546596685470",
+    "project_id": "turnetes-9a656",
+    "storage_bucket": "turnetes-9a656.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546596685470:android:fe931c8dc906de7bab9d8f",
+        "android_client_info": {
+          "package_name": "com.example.turnetes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546596685470-kqa9l8ndk23g1lirtne6aqi2gvg0dlee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABKP7YQ297Y-Br5wnjOL6xf91cotn5bZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546596685470-kqa9l8ndk23g1lirtne6aqi2gvg0dlee.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "546596685470-f0mr114jbl23lc6f7faerjtluff9lhbj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.turnetes"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.120.1 clang-1400.0.28.1)"
+options: "8d9c3afa6245db887f32cce72ad0c94e1c55fa6a7800cdff04d0cfeb03f7f116"
+build_start_time: [1658742479, 683053970]
+build_end_time: [1658742485, 305237054]
+inputs:
+  "/Users/carlos/development/flutter/.pub-cache/hosted/pub.dartlang.org/image_downloader-0.31.0/ios/Classes/MetaDataUtils.swift": [1652790823, 170121908]
+  ? "/Users/carlos/development/flutter/.pub-cache/hosted/pub.dartlang.org/image_downloader-0.31.0/ios/Classes/SwiftImageDownloaderPlugin.swift"
+  : [1652790823, 164144515]

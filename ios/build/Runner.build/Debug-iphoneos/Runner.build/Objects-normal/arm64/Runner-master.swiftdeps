@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.120.1 clang-1400.0.28.1)"
+options: "f324257fc666edc3cdd395988f56190a6fee91049191c846c3f51cb2c49c1e78"
+build_start_time: [1658742485, 935584068]
+build_end_time: [1658742486, 101807117]
+inputs:
+  "/Users/carlos/AndroidStudioProjects/turnetes/ios/Runner/AppDelegate.swift": !private [1658343420, 385316848]
